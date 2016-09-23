@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import edgepwutil.main
+
+if __name__ == '__main__':
+	edgepwutil.main.main()
